@@ -1,0 +1,54 @@
+[19-Sep-2011 22:19:48] PHP Fatal error:  Call to undefined method Membership_model::index() in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 18
+[19-Sep-2011 23:11:05] PHP Parse error:  syntax error, unexpected '[' in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 7
+[19-Sep-2011 23:49:06] PHP Fatal error:  Call to undefined function  result_array() in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 14
+[19-Sep-2011 23:50:47] PHP Parse error:  syntax error, unexpected T_AS in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 14
+[19-Sep-2011 23:51:42] PHP Parse error:  syntax error, unexpected T_AS in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 14
+[19-Sep-2011 23:51:46] PHP Parse error:  syntax error, unexpected T_AS in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 14
+[19-Sep-2011 23:51:57] PHP Parse error:  syntax error, unexpected T_AS in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 14
+[19-Sep-2011 23:52:58] PHP Parse error:  syntax error, unexpected T_AS in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 14
+[19-Sep-2011 23:53:02] PHP Parse error:  syntax error, unexpected T_AS in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 14
+[19-Sep-2011 23:54:49] PHP Fatal error:  Method name must be a string in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 14
+[19-Sep-2011 23:57:03] PHP Fatal error:  Method name must be a string in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 14
+[20-Sep-2011 00:10:52] PHP Fatal error:  Unsupported operand types in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 16
+[20-Sep-2011 00:33:28] PHP Fatal error:  Using $this when not in object context in /home4/dannyfot/public_html/getfound/application/controllers/register.php on line 2
+[20-Sep-2011 00:34:21] PHP Parse error:  syntax error, unexpected T_IF, expecting T_FUNCTION in /home4/dannyfot/public_html/getfound/application/controllers/register.php on line 5
+[20-Sep-2011 00:41:04] PHP Fatal error:  Can't use method return value in write context in /home4/dannyfot/public_html/getfound/application/controllers/register.php on line 9
+[20-Sep-2011 00:41:57] PHP Fatal error:  Can't use method return value in write context in /home4/dannyfot/public_html/getfound/application/controllers/register.php on line 9
+[20-Sep-2011 00:42:00] PHP Fatal error:  Can't use method return value in write context in /home4/dannyfot/public_html/getfound/application/controllers/register.php on line 9
+[20-Sep-2011 01:38:11] PHP Fatal error:  Call to undefined function  form_id() in /home4/dannyfot/public_html/getfound/application/views/includes/header.php on line 11
+[20-Sep-2011 04:04:20] PHP Fatal error:  Call to undefined method CI_Loader::is_logged_in() in /home4/dannyfot/public_html/getfound/application/views/includes/header.php on line 23
+[20-Sep-2011 04:07:44] PHP Fatal error:  Call to undefined method CI_Loader::container() in /home4/dannyfot/public_html/getfound/application/views/includes/header.php on line 23
+[20-Sep-2011 04:11:40] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/dannyfot/public_html/getfound/application/views/includes/header.php on line 27
+[20-Sep-2011 04:39:35] PHP Parse error:  syntax error, unexpected '&' in /home4/dannyfot/public_html/getfound/application/views/includes/header.php on line 14
+[20-Sep-2011 05:22:32] PHP Parse error:  syntax error, unexpected '<' in /home4/dannyfot/public_html/getfound/application/views/search_view.php on line 23
+[20-Sep-2011 05:23:32] PHP Parse error:  syntax error, unexpected '<' in /home4/dannyfot/public_html/getfound/application/views/search_view.php on line 38
+[20-Sep-2011 06:58:02] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home4/dannyfot/public_html/getfound/application/models/membership_model.php on line 71
+[20-Sep-2011 07:08:50] PHP Parse error:  syntax error, unexpected T_STRING in /home4/dannyfot/public_html/getfound/application/views/edit_profile_form.php on line 15
+[20-Sep-2011 07:08:54] PHP Parse error:  syntax error, unexpected T_STRING in /home4/dannyfot/public_html/getfound/application/views/edit_profile_form.php on line 15
+[20-Sep-2011 07:09:56] PHP Parse error:  syntax error, unexpected T_STRING in /home4/dannyfot/public_html/getfound/application/views/edit_profile_form.php on line 15
+[20-Sep-2011 07:09:59] PHP Parse error:  syntax error, unexpected T_STRING in /home4/dannyfot/public_html/getfound/application/views/edit_profile_form.php on line 15
+[20-Sep-2011 07:10:03] PHP Parse error:  syntax error, unexpected T_STRING in /home4/dannyfot/public_html/getfound/application/views/edit_profile_form.php on line 15
+[20-Sep-2011 07:37:07] PHP Fatal error:  Call to undefined method CI_Loader::edit_profile() in /home4/dannyfot/public_html/getfound/application/controllers/site.php on line 66
+[20-Sep-2011 08:59:05] PHP Parse error:  syntax error, unexpected ',' in /home4/dannyfot/public_html/getfound/application/controllers/register.php on line 48
+[20-Sep-2011 09:09:47] PHP Parse error:  syntax error, unexpected ';' in /home4/dannyfot/public_html/getfound/application/views/signup_successful.php on line 45
+[25-Sep-2011 02:47:59] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home4/dannyfot/public_html/getfound/index.php on line 10
+[25-Sep-2011 02:47:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dannyfot/public_html/getfound/index.php on line 10
+[25-Sep-2011 02:48:18] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home4/dannyfot/public_html/getfound/index.php on line 10
+[25-Sep-2011 02:48:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dannyfot/public_html/getfound/index.php on line 10
+[25-Sep-2011 02:49:59] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home4/dannyfot/public_html/getfound/index.php on line 10
+[25-Sep-2011 02:49:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dannyfot/public_html/getfound/index.php on line 10
+[25-Sep-2011 02:51:09] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home4/dannyfot/public_html/getfound/index.php on line 10
+[25-Sep-2011 02:51:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dannyfot/public_html/getfound/index.php on line 10
+[25-Sep-2011 04:32:14] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home4/dannyfot/public_html/getfound/application/config/routes.php on line 44
+[10-Oct-2011 11:55:30] PHP Fatal error:  Class 'Controller' not found in /home4/dannyfot/public_html/getfound/application/controllers/email.php on line 6
+[10-Oct-2011 12:59:32] PHP Fatal error:  Call to undefined function  form_text() in /home4/dannyfot/public_html/getfound/application/views/contact_view.php on line 10
+[10-Oct-2011 13:55:40] PHP Parse error:  syntax error, unexpected T_STRING in /home4/dannyfot/public_html/getfound/application/views/contact_view.php on line 9
+[10-Oct-2011 13:56:30] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home4/dannyfot/public_html/getfound/application/views/contact_view.php on line 9
+[10-Oct-2011 13:57:07] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home4/dannyfot/public_html/getfound/application/views/contact_view.php on line 9
+[10-Oct-2011 13:57:09] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home4/dannyfot/public_html/getfound/application/views/contact_view.php on line 9
+[10-Oct-2011 13:59:07] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/dannyfot/public_html/getfound/application/views/contact_view.php on line 9
+[10-Oct-2011 13:59:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/dannyfot/public_html/getfound/application/views/contact_view.php on line 9
+[10-Oct-2011 14:04:54] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/dannyfot/public_html/getfound/application/views/contact_view.php on line 17
+[10-Oct-2011 14:08:07] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home4/dannyfot/public_html/getfound/application/views/contact_view.php on line 10
+[19-Oct-2011 12:06:09] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home4/dannyfot/public_html/getfound/application/controllers/site.php on line 105
+[19-Oct-2011 12:07:12] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home4/dannyfot/public_html/getfound/application/controllers/site.php on line 105
